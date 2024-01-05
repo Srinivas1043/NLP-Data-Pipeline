@@ -1,6 +1,6 @@
 from nlp_pipeline.embeddings import DataReader
 def main():
-    file_path = 'data/textfiletesting.txt' 
+    file_path = '../data/textfiletesting.txt' 
     # Create an instance of the DataReader class
     data_reader = DataReader(file_path)
 

@@ -1,0 +1,6 @@
+README.md
+setup.py
+genericnlplibrary.egg-info/PKG-INFO
+genericnlplibrary.egg-info/SOURCES.txt
+genericnlplibrary.egg-info/dependency_links.txt
+genericnlplibrary.egg-info/top_level.txt
